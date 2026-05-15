@@ -1,0 +1,27 @@
+<college xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="student schema.xsd">
+    <user status="active">
+        <id>1</id>
+        <name>salman</name>
+        <age>24</age>
+        <city>Karachi</city>
+    </user>
+    <user status="active">
+        <id>2</id>
+        <name>mansoor</name>
+       <age>31</age>
+        <city>Karachi</city>
+    </user>
+
+       <user status="active">
+        <id>3</id>
+        <name>eibad</name>
+       <age>41</age>
+        <city>Karachi</city>
+    </user>
+<!-- <student>
+<id>1</id>
+<name>Ali</name>
+<age>20</age>
+</student> -->
+</college>
